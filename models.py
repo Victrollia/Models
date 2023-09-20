@@ -8,4 +8,5 @@ while True:
 			#user_list.remove('q')
 			print('\n')
 			print(','.join(user_list)[1:-1])
+			user_list.clear()
 	# print list
